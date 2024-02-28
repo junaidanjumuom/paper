@@ -1,9 +1,8 @@
 # Title
 Corrosion is a way to protect structure
 # Author
-
-Muhammad Junaid
-Rob
+Muhammad Junaid, University of Manchester
+Rob, University of Salford
 
 #introduction
 ab c d
